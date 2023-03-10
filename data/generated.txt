@@ -71,3 +71,10 @@ ship "Marauder Raven"
 ship "Marauder Splinter"
 	attributes
 		"self destruct" 0.125
+#	Fluff
+ship "Kar Ik Vot 637"
+	attributes
+		"self destruct" 0.45
+ship "Kar Ik Vot 711"
+	attributes
+		"self destruct" 0.45
