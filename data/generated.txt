@@ -1,7 +1,4 @@
 #	Override
-ship "Pincer Beast"
-	attributes
-		"self destruct" 0.5
 ship "Kar Ik Vot 349"
 	attributes
 		"self destruct" 0.4
